@@ -3,7 +3,7 @@
 Kia ora and welcome to my **STATS 220** repository!
 
 ### Some fun facts about me!
-* I am currently in my third year of a **BCom/BSc** (_majoring in Finance, Accounting & Stats_) at The University of Auckland.
+* I am currently studying a **BCom/BSc** (_majoring in Finance, Accounting & Stats_) at The University of Auckland.
 * I have done karate for about 8 years now.
 * I love music and have recently purchased quite a few vinyls.
 
