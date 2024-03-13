@@ -11,4 +11,4 @@ Kia ora and welcome to my **STATS 220** repository!
 1. I wanted to build my competency in R for my further studies and career.
 2. I am currently enjoying coding generally and find it super interesting!
 
-_If you would like to connect with me, you can do find me on LinkedIn_ [_here_](https://www.linkedin.com/in/cullen-tran/)
+_If you would like to connect with me, you can find me on LinkedIn_ [_here_](https://www.linkedin.com/in/cullen-tran/)
